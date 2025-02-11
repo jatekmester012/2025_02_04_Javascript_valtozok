@@ -15,7 +15,7 @@ let lastName = 'Doe';
 console.log(`Hello, ${firstName} ${lastName}!`);
 
 let person = {
-    name: 'Gyenei Péter Kont',
+    name: 'Gyenei Péter Kont (Mannin)',
     age: 39,
     isStudent: false
 }
